@@ -25,6 +25,7 @@
 
 6. Other approaches
     a. LORA adapters
+    b. Full scale fine tuning + hybrid loss self-training
 
 7. Others
     a. Dataset and Dataloaders
@@ -33,6 +34,8 @@
 ## Assigneeeeeee
 
 - Tanmay
+    - 1.a - DONE
+    - 1.b - DONE
     - Modified Self-training (b)
 
 - Kyle
@@ -41,14 +44,15 @@
     - Baseline MarianMT model results using the above metrics
 
 - Anish
-    - Report
+    - Report - DONE
     - Modified Self-training (a)
 
 - Vishal
-    - Full-scale Fine-tuning of MarianMT on PM India dataset 
-        - And evaluation results
+    - 4.a - Done
+    - 6.b
 
 - Mayur
-    - 5.c
+    - Initial 5.a, 5.b - DONE
+    - 5.c - DONE
     - 6.a
         
